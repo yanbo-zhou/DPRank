@@ -1,4 +1,4 @@
-citing_id	cited_id	cite_date(month)
+citing_id	cited_id	cite_date(in ascending order for each cited_id)
 3	0	340
 5	0	342
 6	0	350
